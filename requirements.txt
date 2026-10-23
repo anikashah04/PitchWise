@@ -1,0 +1,4 @@
+crewai
+streamlit
+python-docx
+python-pptx
